@@ -27,6 +27,7 @@
 | 書名 | 年份 | 全書字條 | Github | 
 | --- | ---- | ------- | --------- |
 | 廣州音字彙  | 1962 | [GSheet](https://goo.gl/tb1yYY)  | [Github](https://goo.gl/vrDfHV) |  
+| 廣州話標準音字彙  | 1988 | [GSheet](https://docs.google.com/spreadsheets/d/1Va2hU9pBh7Z9PM5al27yApcp3VdLME5JVgBngVZ6F-Y/edit#gid=0)  | [Github](https://github.com/jyutnet/cantonese-books-data/tree/master/1988_廣州話標準音字彙) |  
 | 廣州話正音字典  | 2004 | [GSheet](https://goo.gl/Nvg7Lo)  | [Github](https://goo.gl/6fpjFU) |  
 
 註：
@@ -38,10 +39,11 @@
 
 ## D類. 其他
 
-**說明**: 以下資源，其中《初學粵音切要》屬於早期粵音系統，不能和其他書籍的注音直接比較；《中華新字典》和《部身字典》則暫時只有單字位置而未有詳細讀音資料。
+**說明**: 以下資源，其中《初學粵音切要》、《英華分韻撮要》和《中華新字典》屬於早期粵音系統，不能和其他書籍的注音直接比較；《部身字典》則暫時只有單字位置而未有詳細讀音資料。
 
 | 書名 | 年份 | 內容 | 
 | --- | ---- | --------- |
 | 初學粵音切要  | 1855 | 全書字條（[Github](https://goo.gl/iEWxc7)、[GSheet](https://goo.gl/F8G699)） |  
-| 中華新字典  | 1937 | 檢字表（[Github](https://goo.gl/uN8T8K)、[GSheet](https://goo.gl/rk6FKW)）、原書掃描檔（[Google Drive](https://goo.gl/b1AGN3)） |  
+| 英華分韻撮要  | 1856 | 全書字條（[Github](https://github.com/jyutnet/cantonese-books-data/tree/master/1856_英華分韻撮要)、[GSheet](https://docs.google.com/spreadsheets/d/1D5ve6OPOM_83Itne4Z34YYBeqe_i3bPoB5UfaHkm4Bo/edit?usp=sharing)） |  
+| 中華新字典  | 1937 | 全書字條（[Github](https://bit.ly/2YBmcF5)、[GSheet](https://bit.ly/3fmC8Sb)）、原書掃描檔（[Google Drive](https://goo.gl/b1AGN3)） |  
 | 部身字典  | 1967 | 檢字表（[Github](https://goo.gl/eWkJUD)） |  
